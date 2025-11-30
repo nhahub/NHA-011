@@ -36,9 +36,6 @@ NHA-011/
     └── 3.jpg   # Final prediction result (disease / no disease)
 ````
 
-> 💡 If your screenshot files are `.png` instead of `.jpg`, just change the extensions in the **Screenshots** section below.
-
----
 
 ## 🔍 Project Description
 
