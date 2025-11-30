@@ -74,8 +74,6 @@ The dataset is loaded and processed in the notebook:
 
 * `final_depi_mil4.ipynb`
 
-If you are using a local file such as `heart_disease_dataset.csv`, place it in the project folder and update the path in the notebook.
-
 ---
 
 ## 🧠 Model Training
